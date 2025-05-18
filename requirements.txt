@@ -1,0 +1,10 @@
+streamlit
+pandas-datareader
+matplotlib
+numpy
+tensorflow
+scikit-learn
+pandas
+pykalman
+PySimpleGUI
+plotly
