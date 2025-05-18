@@ -1,6 +1,6 @@
 # ML mini project
 
-### Predicting closing stock prices of FAANG companies namely Facebook, Apple, Amazon, Netflix and Google from May 2012 till March 2021 using Deep Learning models such as Long Short Term Memory (LSTM), a Basic Artificial Neural Network(CNN), Recurrent Neural Networks (RNN) and Multilayer Perceptron (MLP).
+### Predicting closing stock prices of FAANG companies namely Facebook, Apple, Amazon, Netflix and Google from May 2012 till March 2021 using Deep Learning models such as Long Short Term Memory (LSTM), a Basic Artificial Neural Network (ANN), Recurrent Neural Networks (RNN) and Multilayer Perceptron (MLP).
 
 ---
 
