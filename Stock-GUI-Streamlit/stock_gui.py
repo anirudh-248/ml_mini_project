@@ -188,7 +188,7 @@ if flag == "True":
     k = st.number_input('',step = 1,min_value=1, value = 60)
     company_stock = stock_predict_DL(data)
     st.subheader('Which Deep Learning model would you like to train? :')
-    mopt = st.selectbox('', ["Click to select", "LSTM","MLP","RNN","Basic ANN","Autoencoder"])
+    mopt = st.selectbox('', ["Click to select", "LSTM","MLP","RNN","ANN"])
 
     if mopt=="LSTM":
         company_stock.LSTM_model()
@@ -199,5 +199,5 @@ if flag == "True":
     if mopt == "RNN":
         company_stock.rnn_model()
 
-    if mopt == "Basic ANN":
+    if mopt == "ANN":
         company_stock.basic_ann_model()
